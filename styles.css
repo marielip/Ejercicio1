@@ -1,0 +1,47 @@
+body{
+	background: url(Drew.jpg) no-repeat 
+		center center fixed;
+	background-size: cover;
+	font-family: 'Sen', sans-serif;
+	font-family: 'Roboto Mono', monospace;
+}
+
+#home{
+	width:100%;
+	height:1000px;
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba(255,255,255,.9);
+}
+
+#Topdesigns{
+	width:80%;
+	height:1000px;
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba(255,0,0,.9);
+}
+
+article{
+	width:25%;
+	height:auto;
+	margin: 0 auto;
+	padding: 12px;
+	background: rgba(255,0,0,.9);
+}
+
+img{
+	width: 100%
+	max-width: 100%;
+}
+
+h2{
+	font-family: 'Sen', sans-serif;
+	font-size: 24%;
+	font-weight: bold;
+}
+
+p{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 24px;
+}
