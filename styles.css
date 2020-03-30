@@ -21,7 +21,7 @@ body{
 }
 
 article{
-	width:21%;
+	width:22.65%;
 	height:auto;
 	display: inline-block;
 	padding: 12px;
@@ -43,10 +43,22 @@ h2{
 	font-family: 'Sen', sans-serif;
 	font-size: 24px;
 	font-weight: bold;
+	text-align: center;
 }
 
 p{
 	font-family: 'Roboto Mono', monospace;
 	font-size: 24px;
 	text-align: justify;
+}
+
+header {
+	background: rgba(255, 255, 255, 0.8);
+    width: 97.3%;
+    margin: 12px;
+    padding: 12px;
+}
+
+footer{
+
 }
